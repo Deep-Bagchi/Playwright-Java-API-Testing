@@ -1,0 +1,3 @@
+com\qa\api\tests\GET\APIResponseHeadersTest.class
+com\qa\api\tests\GET\GETAPICall.class
+com\qa\api\tests\GET\APIDisposeTest.class
